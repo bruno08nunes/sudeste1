@@ -18,7 +18,7 @@
 </ul>
 
 ### Imagens:
-![image](https://github.com/bruno08nunes/sudeste/assets/139359503/e49372c2-e783-4104-83af-a65947f1c1d8)
-![image](https://github.com/bruno08nunes/sudeste/assets/139359503/423b717f-de94-41d9-99c2-e318c34a75f5)
+![image](https://github.com/bruno08nunes/sudeste1/assets/139359503/a4ce50e2-dae8-4a6b-89c3-ed7743724823)
+![image](https://github.com/bruno08nunes/sudeste1/assets/139359503/c06dcd18-d93c-4b35-96ff-987518d7e515)
 
-Link do site: <a href="https://bruno08nunes.github.io/sudeste/index.html">Comunidade Sudeste</a>
+Link do site: <a href="https://bruno08nunes.github.io/sudeste1/">Comunidade Sudeste</a>
