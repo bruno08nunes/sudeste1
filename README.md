@@ -5,8 +5,6 @@
 
 ### Requisitos e Funções:
 <ul>
- <li>Responsividade - O site pode ser acessado em diversos dispositivos diferentes. Porém, nem todas as funções estão disponíveis em todos os navegadores;</li>
- <li>Possibilidade de acessar o mapa da região de forma dinâmica;</li>
  <li>Utilização de vídeos e imagens para acrescentar na experiência do usuário.</li>
 </ul>
 
@@ -14,7 +12,6 @@
 <ul>
  <li>HTML - Estrutura do site;</li>
  <li>CSS - Estilização do site;</li>
- <li>JavaScript - Para questões de responsividade.</li>
 </ul>
 
 ### Imagens:
